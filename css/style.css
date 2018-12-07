@@ -6,7 +6,7 @@ h1{
 
 h3 {
   color: green;
-  font-style: italic;
+  font-style: normal;
   text-align: center;
 }
 p {
@@ -14,4 +14,15 @@ p {
 }
 ul {
   line-height: 40px;
+  font-size: 20px
 }
+html{
+  background-color:#483D8B;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-size: 24px bold;
+   font-style: inherit 
+  }
